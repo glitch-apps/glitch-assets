@@ -1,0 +1,11 @@
+{
+  "name": "glitch-assets",
+  "version": "0.1.0",
+  "description": "Helper to read your .glitch-assets file on Glitch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Chilton",
+  "license": "ISC"
+}
